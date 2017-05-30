@@ -1,0 +1,41 @@
+Report for verification mode
+
+Full pathname to monitored directory:	/Users/macbook/Desktop/linux-4.9.3
+Full pathname to verification file:	/Users/macbook/Documents/verification.txt
+Full pathname to report file:		/Users/macbook/Documents/report1.txt
+Number of directories parsed:		3837
+Number of files parsed:			56233
+Number of warning issued:		28
+Time to complete:			22 seconds
+
+
+Warnings:
+
+/Users/macbook/Desktop/linux-4.9.3/crypto: mtime different
+/Users/macbook/Desktop/linux-4.9.3/usr/.DS_Store: new file in monitored directory
+/Users/macbook/Desktop/linux-4.9.3/lib/.DS_Store: new file in monitored directory
+/Users/macbook/Desktop/linux-4.9.3/usr: mtime different
+/Users/macbook/Desktop/linux-4.9.3/usr/linuu/.DS_Store: new file in monitored directory
+/Users/macbook/Desktop/linux-4.9.3/README: size different
+/Users/macbook/Desktop/linux-4.9.3/README: checksum different
+/Users/macbook/Desktop/linux-4.9.3/README: mtime different
+/Users/macbook/Desktop/linux-4.9.3/lib: mtime different
+/Users/macbook/Desktop/linux-4.9.3/usr/linuu: new directory in monitored directory
+/Users/macbook/Desktop/linux-4.9.3/Documentation/aoe/c.txt: new file in monitored directory
+/Users/macbook/Desktop/linux-4.9.3/ubuild: new file in monitored directory
+/Users/macbook/Desktop/linux-4.9.3/Documentation/.DS_Store: new file in monitored directory
+/Users/macbook/Desktop/linux-4.9.3/crypto/.DS_Store: new file in monitored directory
+/Users/macbook/Desktop/linux-4.9.3/Documentation/aoe/.DS_Store: new file in monitored directory
+/Users/macbook/Desktop/linux-4.9.3/usr/linuu/Kconfig: new file in monitored directory
+/Users/macbook/Desktop/linux-4.9.3/lib/842: mtime different
+/Users/macbook/Desktop/linux-4.9.3/Documentation: mtime different
+/Users/macbook/Desktop/linux-4.9.3/Documentation/aoe: mtime different
+/Users/macbook/Desktop/linux-4.9.3/.DS_Store: new file in monitored directory
+/Users/macbook/Desktop/linux-4.9.3/lib/842/.DS_Store: new file in monitored directory
+/Users/macbook/Desktop/linux-4.9.3/lib/842/Makefile: not exists in monitored directory
+/Users/macbook/Desktop/linux-4.9.3/Kbuild: not exists in monitored directory
+/Users/macbook/Desktop/linux-4.9.3/Documentation/aoe/todo.txt: not exists in monitored directory
+/Users/macbook/Desktop/linux-4.9.3/Documentation/aoe/udev.txt: not exists in monitored directory
+/Users/macbook/Desktop/linux-4.9.3/crypto/842.c: not exists in monitored directory
+/Users/macbook/Desktop/linux-4.9.3/usr/Kconfig: not exists in monitored directory
+/Users/macbook/Desktop/linux-4.9.3/COPYING: not exists in monitored directory
